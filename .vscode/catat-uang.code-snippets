@@ -1,0 +1,24 @@
+{
+    "Export Default As": {
+        "prefix": "exdefas",
+        "body": [
+            "export { default as $1 } from \"./$1\""
+        ]
+    },
+    "Ion Icon Import": {
+       "prefix" :"impioni",
+       "body": "import IonIcon from \"react-native-vector-icons/Ionicons\";"
+    },
+    "Feather Icon Import": {
+        "prefix": "impfeai",
+        "body": "import FeatherIcon from \"react-native-vector-icons/Feather\";"
+    },
+    "Fa5 Icon Import": {
+        "prefix": "impfa5i",
+        "body": "import Fa5Icon from \"react-native-vector-icons/FontAwesome5\";"
+    },
+    "Fa6 Icon Import": {
+        "prefix": "impfa6i",
+        "body": "import Fa6Icon from \"react-native-vector-icons/FontAwesome6\";"
+    },
+}
